@@ -1,9 +1,9 @@
 <?php
 
-    $nuConfigDBHost                 = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-    $nuConfigDBName                 = "ibl1dzgyi02b9k16";
-    $nuConfigDBUser                 = "zx5n3bw9apghtoc5";
-    $nuConfigDBPassword             = "fidn6ui0ped1crxj";
+    $nuConfigDBHost                 = "us-cdbr-east-02.cleardb.com";
+    $nuConfigDBName                 = "heroku_75af11615cb2248";
+    $nuConfigDBUser                 = "bade28c553f914";
+    $nuConfigDBPassword             = "b2560b71";
     $nuConfigDBGlobeadminUsername   = "admin";     //-- globeadmin username
     $nuConfigDBGlobeadminPassword   = "admin";             //-- globeadmin password
     $nuConfigTitle                  = "Pizza Ordering";
