@@ -7,7 +7,7 @@
     $nuConfigDBGlobeadminUsername   = "admin";     //-- globeadmin username
     $nuConfigDBGlobeadminPassword   = "admin";             //-- globeadmin password
     $nuConfigTitle                  = "Pizza Ordering";
-    $nuConfigIsDemo                 = false;
+    $nuConfigIsDemo                 = true;
 	$nuConfigTimeOut             	= 1440;
   /*$nuWelcomeBodyInnerHTML			= " 
 	
