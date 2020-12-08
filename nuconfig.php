@@ -1,9 +1,9 @@
 <?php
 
-    $nuConfigDBHost                 = "127.0.0.1";
-    $nuConfigDBName                 = "pizza_db";
-    $nuConfigDBUser                 = "root";
-    $nuConfigDBPassword             = "";
+    $nuConfigDBHost                 = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    $nuConfigDBName                 = "ibl1dzgyi02b9k16";
+    $nuConfigDBUser                 = "zx5n3bw9apghtoc5";
+    $nuConfigDBPassword             = "fidn6ui0ped1crxj";
     $nuConfigDBGlobeadminUsername   = "admin";     //-- globeadmin username
     $nuConfigDBGlobeadminPassword   = "admin";             //-- globeadmin password
     $nuConfigTitle                  = "Pizza Ordering";
